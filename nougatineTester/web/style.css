@@ -1,0 +1,265 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 29 nov. 2015, 18:17:57
+    Author     : kuungfu-sheep
+*/
+
+body{
+    width: 1000px;
+    margin: auto;
+}
+
+header{
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+
+#MainTitle{
+    font-size: 70px;
+    display: inline;
+    color: saddlebrown;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+#PunchLine{
+    font-size: 15px;
+    display: inline;
+    color: saddlebrown;
+    font-family: sans-serif;
+}
+
+#ButtonsHeader{
+    display: inline-block;
+    float: right;
+    margin-top: 15px;
+}
+
+#FormHeader{
+    display: inline-block;
+}
+
+#ButtonHeaderAide{
+    width: 100px;
+    height: 35px;
+    font-size: 22px;
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(51, 102, 255);
+}
+
+#ButtonHeaderInscrire{
+    width: 100px;
+    height: 35px;
+    font-size: 22px;
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(255, 203, 0);
+    margin-left: 20px;
+}
+
+#ButtonHeaderLogin{
+    width: 100px;
+    height: 35px;
+    font-size: 22px;
+    color: white;
+    border-radius: 10px;
+    background-color: rgb(151, 208, 119);
+    margin-left: 20px;
+}
+
+#ParisStep1{
+    
+}
+
+#Content{
+    
+}
+
+#FormParis{
+    width: 90%;
+    height: 50px;
+}
+
+.ParisSelect{
+    background-image:linear-gradient(white, #B3B3B3);
+    border-style: solid;
+    border-color: #666666;
+    border-width: 2px;
+    border-radius: 15px;
+}
+
+#ParisSelectStep1{
+    text-align: center;
+    width: 700px;
+    height: 50px;
+    display: inline-block;
+    margin-right: 12px;
+}
+
+#SelectGame{
+    text-align: center;
+    font-size: 22px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+#SelectTournament{
+    text-align: center;
+    font-size: 22px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.SubmitButton{
+    background-image:linear-gradient(white, #B3B3B3);
+    border-style: solid;
+    border-color: #666666;
+    border-width: 2px;
+    border-radius: 15px;
+}
+
+#ParisSubmitStep1{
+    display: inline-block;
+    font-size: 22px;
+    width: 160px;
+    height: 56px;
+    margin-left: 12px;
+}
+
+#Article1{
+    text-align: justify;
+    width: 472px;
+}
+
+#Article2{
+    text-align: justify;
+    width: 472px;
+}
+
+table{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#LoginInput{
+    font-size: 22px;
+}
+
+#FormLogin{
+    width: 250px;
+}
+
+form{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#LoginButton{
+    font-size: 22px;
+    width: 145px;
+    height: 45px;
+}
+
+.InputText{
+    border-style: solid;
+    border-color: #666666;
+    border-width: 2px;
+    border-radius: 7px;
+}
+
+#InputTextInscrire{
+    font-size: 22px;
+}
+
+#InputSubmitInscrire{
+    font-size: 22px;
+    width: 145px;
+    height: 45px;
+}
+
+#SelectInscrire{
+    text-align: center;
+    font-size: 22px;
+}
+
+#TexteInscrire{
+    font-size: 22px;
+}
+
+#SelectMatch{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+#SelectVainqueur{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#ParisSubmitStep2{
+    text-align: center;
+    font-size: 22px;
+    width: 120px;
+    height: 40px;
+}
+
+#InputTextParisStep2{
+    text-align: center;
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+#ParisSelectStep2{
+    text-align: center;
+    width: 900px;
+    height: 50px;
+    display: inline-block;
+}
+
+#ParisSubmitStep3{
+    text-align: center;
+    font-size: 22px;
+    width: 120px;
+    height: 40px;
+}
+
+#ParisSelectStep3{
+    text-align: center;
+    width: 350px;
+    height: 500px;
+    border-radius: 40px;
+    display: inline-block;
+}
+
+#InputTextParisStep3{
+    text-align: center;
+    font-size: 22px;
+    background-color: white;
+    color: black;
+}
+
+#CGUParis{
+    width: 350px;
+    height: 500px;
+    text-align: justify;
+    display: inline-block;
+}
+
+#FormParisStep3{
+    display: inline-block;
+    width: 90%;
+    height: 600px;
+}
+
